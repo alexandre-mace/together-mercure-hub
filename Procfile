@@ -1,1 +1,1 @@
-web: ADDR=":${PORT}" ./mercure
+web: ADDR=":3000" ./mercure
